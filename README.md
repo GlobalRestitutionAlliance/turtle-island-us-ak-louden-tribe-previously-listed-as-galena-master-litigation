@@ -1,6 +1,6 @@
 # US AK LOUDEN TRIBE PREVIOUSLY LISTED AS GALENA - Litigation Framework
 
-**Template:** CUBA-adapted framework
+**Template:** GRA litigation framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
