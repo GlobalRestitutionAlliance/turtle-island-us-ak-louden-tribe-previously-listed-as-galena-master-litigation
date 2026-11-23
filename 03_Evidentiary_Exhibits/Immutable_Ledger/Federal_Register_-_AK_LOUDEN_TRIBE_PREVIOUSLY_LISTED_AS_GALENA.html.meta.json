@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+LOUDEN+TRIBE+PREVIOUSLY+LISTED+AS+GALENA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+LOUDEN+TRIBE+PREVIOUSLY+LISTED+AS+GALENA",
+  "title": "Federal Register - AK LOUDEN TRIBE PREVIOUSLY LISTED AS GALENA",
+  "fetched_at": "2026-11-23T16:06:36.161263Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 176249,
+  "sha256": "c678e38f61610e5fa4bf30148557da5d97037e3029986b2a712591f511a286d3",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
